@@ -1,6 +1,6 @@
 ## 👨‍💻 Hi there, I'm Sergio! 👋
 
-- 🔭 I’m currently working at **OSP Spain**
+- 🔭 I’m currently working at **Otto Group one.O**
 - 🌱 I'm currently learning about **Android, Cloud and Software Architecture**
 - 👯 I’m looking to collaborate on **Backend Projects and public APIs explorations like Gemini, Youtube, etc**
 - 🙄 I'm currently focused in Kotlin-first development.
