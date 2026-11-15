@@ -28,22 +28,9 @@ A calm Android app for **tasks, habits and focus**. Offline, encrypted, no accou
 
 ---
 
-## 🧪 Experiment: [Mandre Launcher](https://github.com/sherrerapiqueras/launcher)
-
-A **Pixel-like Android home screen** built on a clean AOSP Launcher3 (Android 17) baseline, where the home screen adapts to Android's system **Modes**: work, sleep, focus or your own.
-
-- Native workspace, folders, dock and widgets, with Pixel-style presentation on top
-- Modes-driven layouts on API 35+, with an app-owned fallback for API 31–34
-- Designed before coded: accepted ADRs, a documented architecture and a 112-capability roadmap
-- CI and branch protections in place from day one
-
----
-
 ## 🗂️ Earlier work
 
-- [**ktor-hexagonal-template**](https://github.com/sherrerapiqueras/ktor-hexagonal-template): Hexagonal Architecture template for Kotlin REST APIs with Ktor and MongoDB ([in-memory](https://github.com/sherrerapiqueras/kotlin-hex-arc-basic) and [MongoDB](https://github.com/sherrerapiqueras/kotlin-hex-arc-mongodb) samples)
-- [**spotify-rest-kotlin**](https://github.com/sherrerapiqueras/spotify-rest-kotlin) · [**openai-rest-kotlin**](https://github.com/sherrerapiqueras/openai-rest-kotlin): Kotlin clients exploring public APIs
-- [**leetcode**](https://github.com/sherrerapiqueras/leetcode): algorithm practice in Kotlin
+Archived, kept for reference: a [Hexagonal Architecture template for Ktor](https://github.com/sherrerapiqueras/ktor-hexagonal-template) ([basic](https://github.com/sherrerapiqueras/kotlin-hex-arc-basic) and [MongoDB](https://github.com/sherrerapiqueras/kotlin-hex-arc-mongodb) samples), Kotlin clients for the [Spotify](https://github.com/sherrerapiqueras/spotify-rest-kotlin) and [OpenAI](https://github.com/sherrerapiqueras/openai-rest-kotlin) APIs, and [algorithm practice](https://github.com/sherrerapiqueras/leetcode).
 
 ---
 
@@ -59,4 +46,4 @@ A **Pixel-like Android home screen** built on a clean AOSP Launcher3 (Android 17
 
 ## 🤝 Let's talk
 
-I'm open to **custom software projects**, Android and multiplatform work, and anything around **public APIs**. Open an issue on any repo or reach me through my GitHub profile. Feedback on Tempo is always welcome.
+I'm open to **custom software projects**, Android/iOS and multiplatform work, and anything around **public APIs**. Open an issue on any repo or reach me through my GitHub profile. Feedback on Tempo is always welcome.
